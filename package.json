@@ -1,0 +1,27 @@
+{
+  "name": "to-do-list-backend",
+  "version": "1.0.0",
+  "description": "to-do-list backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tulika-D/To-Do-List-Backend.git"
+  },
+  "author": "tulikadey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tulika-D/To-Do-List-Backend/issues"
+  },
+  "homepage": "https://github.com/Tulika-D/To-Do-List-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
